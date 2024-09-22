@@ -1,4 +1,4 @@
-Yuuichi here! I'm currently learning __C++__.
+👋 Yuuichi here! I'm currently learning __C++__.
   
 There's not much to say about me, except for this being my first programming language. Any and all advise are appreciated!!
 
